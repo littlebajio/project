@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_movies"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Фильмы" />
+    <item
+        android:id="@+id/nav_mood"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Настроение" />
+    <item
+        android:id="@+id/nav_storage"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Избранное" />
+</menu>
